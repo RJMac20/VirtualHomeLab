@@ -1,2 +1,4 @@
-# VirtualHomeLab
-Configuring a virtual home lab
+<h1>Table of Contents 
+
+- <b>Part 1 </b>
+  - [Part 1](url)
